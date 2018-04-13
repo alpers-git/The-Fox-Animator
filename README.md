@@ -8,6 +8,7 @@ Features include:
   -Progress bar to indicate time of the current frame in the animation
   -Interactive display of character the model.
   -Save/Load animation
+  -Key frame selection and editing via buttons.
   -Extensible classes and methods for future development.
   
 ![alt text](screenshots/ss1.JPG "")
