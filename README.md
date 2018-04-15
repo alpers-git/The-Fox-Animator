@@ -1,6 +1,7 @@
 The Fox Animator
 -
 A 2-D Animation program with a built in model happens to be a fox. Developed in WebGL. Model uses hierarchical modelling. The traversing algorithm uses stack based approach that holds the trasformations to that limb's parents.
+Developed by: Barış Poyraz(https://github.com/barispoyraz) and Alper Şahıstan
 Features include:
   - **Interpolation between key frames using a easy In/Out for natural movements.**
   - **Slider and accordion based interface for model transformations.**
